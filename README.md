@@ -1,6 +1,6 @@
 # Api-development
 
-Simple project to learn more about the development of an API using Nest.js, following the MVC (Model-View-Controller) architectural pattern and utilizing Postman as a testing tool. Special thanks to @Academind
+Simple project to learn more about the development of an API using Nest.js, following the MVC (Model-View-Controller) architectural pattern and utilizing Postman as a testing tool. <br/> Special thanks to @Academind
 
 <br/>
 
